@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://satisfyingsalad.netlify.app/sitemap.xml
